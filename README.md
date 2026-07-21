@@ -10,7 +10,7 @@ Read the rendered versions at **[cc4.marketing/library](https://cc4.marketing/li
 
 ## Directory
 
-20 entries across 9 categories.
+25 entries across 9 categories.
 
 | Category | Name | Type | Access | What it does |
 | --- | --- | --- | --- | --- |
@@ -20,20 +20,25 @@ Read the rendered versions at **[cc4.marketing/library](https://cc4.marketing/li
 | Content & Copy | [Blog Post Outline Builder](content/blog-post-outline.md) | Slash Command | Free | Turn a keyword into an H2 and H3 outline with intent notes. |
 | Content & Copy | [Blog to Social Repurposer](content/repurpose-blog-to-social.md) | Slash Command | Free | Turn one blog post into a LinkedIn post, an X thread, and a carousel. |
 | Content & Copy | [Brand Voice Memory Block](content/brand-voice-memory.md) | Prompt | Free | A CLAUDE.md block that keeps every draft on brand across a project. |
+| Content & Copy | [Notes Humanizer](content/notes-humanizer.md) | Skill | Free | Strip the AI tells out of a draft so it reads like a person wrote it. |
 | Ads & Paid | [Ad Copy Variant Generator](paid-ads/ad-copy-variants.md) | Slash Command | Free | Generate 10 headline and primary text variants, each with an angle. |
 | Ads & Paid | [Negative Keyword Finder](paid-ads/negative-keyword-finder.md) | Prompt | Free | Mine a Google Ads search terms export for negative keywords, grouped by reason. |
 | Analytics & Data | [GA4 Question Answerer](analytics/ga4-question-answerer.md) | Prompt | Free | Turn a plain English analytics question into GA4 exploration steps. |
 | Analytics & Data | [UTM Builder](analytics/utm-builder.md) | Slash Command | Free | Build consistent UTM tagged URLs from your naming rules and flag drift. |
 | Email & Lifecycle | [Newsletter Section from a Link](email/newsletter-from-link.md) | Slash Command | Free | Summarize a URL into a newsletter section with subject line and CTA. |
 | Email & Lifecycle | [Welcome Sequence Outline](email/welcome-sequence-outline.md) | Slash Command | Free | Outline a 4 to 5 email onboarding drip with goal, subject, and CTA per email. |
+| Email & Lifecycle | [Resend Setup Audit](email/resend-setup-audit.md) | Prompt | Free | Audit your Resend setup end to end: domain, DMARC, tracking, and broadcast hygiene. |
 | Social & Community | [LinkedIn Post from Notes](social/linkedin-post-from-notes.md) | Slash Command | Free | Draft a LinkedIn post from rough bullet notes, with a hook and CTA. |
 | Social & Community | [Weekly Social Plan](social/weekly-social-plan.md) | Slash Command | Free | Turn your content pillars into a 7 day social plan with hooks and CTAs. |
 | Reporting & Dashboards | [Monthly Report Outline](reporting/monthly-report-outline.md) | Slash Command | Free | Produce an executive monthly marketing report outline leaders will read. |
 | Reporting & Dashboards | [Weekly Metrics Summary](reporting/weekly-metrics-summary.md) | Prompt | Free | Turn a metrics CSV into a plain language weekly readout with deltas. |
+| Reporting & Dashboards | [Slide Deck Builder](reporting/slide-deck-builder.md) | Skill | Paid | Build and edit real PowerPoint decks, not markdown, for pitches and readouts. |
 | Competitive Research | [Competitor Page Teardown](competitive/competitor-page-teardown.md) | Prompt | Free | Analyze one competitor landing page for offer, proof, CTA, and gaps. |
 | Competitive Research | [Content Gap Finder](competitive/content-gap-finder.md) | Prompt | Free | Compare a competitor's topic coverage to yours and rank the gaps to target. |
+| Competitive Research | [Last 30 Days](competitive/last-30-days.md) | Skill | Paid | Read what people actually said about a tool or trend in the last month. |
 | Project & Ops | [Content Calendar Scaffold](project-ops/content-calendar-scaffold.md) | Slash Command | Free | Build a 90 day rolling content calendar from a short description. |
 | Project & Ops | [Marketing MCP Starter](project-ops/marketing-mcp-starter.md) | MCP Server | Free | A starter set of MCP servers marketers actually use with Claude Code. |
+| Project & Ops | [Campaign Review Dashboard](project-ops/campaign-review.md) | Skill | Paid | Turn a campaign folder into one HTML page a client can review in full. |
 
 ## How to use an entry
 
