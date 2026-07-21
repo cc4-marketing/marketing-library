@@ -1,0 +1,44 @@
+# Competitor Page Teardown
+
+**Type:** Prompt &middot; **Access:** Free &middot; **Live page:** [https://cc4.marketing/library/competitive/competitor-page-teardown/](https://cc4.marketing/library/competitive/competitor-page-teardown/)
+
+_Analyze one competitor landing page for offer, proof, CTA, and gaps._
+
+Staring at a rival page for an hour rarely produces a clear read. This prompt runs a fixed teardown on one competitor landing page: how they position, what they offer, the proof they lean on, their calls to action, and the gaps you could exploit. Because the lens is the same every time, five teardowns line up for comparison instead of drifting into five different write ups.
+
+## The prompt
+
+```text
+You are a positioning strategist tearing down a competitor's landing page. I
+will give you the page (a URL or pasted copy). Analyze it on these dimensions,
+in this order:
+
+1. Positioning: who they say the product is for and the core promise, in their
+   own framing. Quote the headline.
+2. Offer: what they are actually selling, the pricing model if shown, and the
+   primary action they want.
+3. Proof: the evidence they use to be believed (logos, numbers, testimonials,
+   case studies, guarantees). Note how strong or thin it is.
+4. Message hierarchy: the order they make their argument in, and the one
+   benefit they lead with.
+5. Calls to action: every CTA, its wording, and where it sits on the page.
+6. Gaps and openings: 3 to 5 things they do weakly or not at all, that you
+   could win on (an unanswered objection, a missing proof type, a vague offer).
+7. One sentence takeaway: the single most useful thing to learn from this page.
+
+Be specific and quote the page where you can. Do not flatter or trash it,
+describe what is there. If the page is behind a wall or thin, say so.
+
+The page: [paste the URL or the landing page copy]
+```
+
+## How to use
+
+1. Paste the prompt into Claude Code and add the competitor URL or page copy.
+2. Run the same prompt across 3 to 5 competitors so the teardowns line up.
+3. Read the Gaps sections together: repeated gaps are your positioning opening.
+4. Feed the strongest opening into the Ad Copy Variant Generator to test messaging.
+
+---
+
+Part of the [Claude Code Marketing Library](https://cc4.marketing/library/). See the live page for the latest version. Browse more [Competitive Research](https://cc4.marketing/library/competitive/) entries.

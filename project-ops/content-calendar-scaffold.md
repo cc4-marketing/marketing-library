@@ -1,0 +1,50 @@
+# Content Calendar Scaffold
+
+**Type:** Slash Command &middot; **Access:** Free &middot; **Live page:** [https://cc4.marketing/library/project-ops/content-calendar-scaffold/](https://cc4.marketing/library/project-ops/content-calendar-scaffold/)
+
+_Build a 90 day rolling content calendar from a short description._
+
+Planning stalls at the empty spreadsheet. This command scaffolds a 90 day rolling content calendar from a short description of your channels, cadence, and goals: monthly themes, weekly slots, and a starter idea in each slot. You start from a real structure and spend your time on the choices that actually differ, not on setting up the grid.
+
+## The command
+
+Save this as `.claude/commands/calendar.md` in your project.
+
+```markdown
+---
+description: Scaffold a 90 day rolling content calendar.
+argument-hint: [channels, cadence, audience, and goal]
+---
+
+You are a content operations lead. The brief is: $ARGUMENTS
+
+If channels, posting cadence, audience, or the quarter's goal is missing, ask
+for it first. Then build a 90 day rolling content calendar as a table.
+
+Structure:
+- Group by month, then by week (13 weeks total).
+- Give each month a theme tied to the goal.
+- For each week, create one row per channel in the cadence. Columns:
+  Week, Date range, Channel, Content type, Working title or idea, Status.
+- Set every Status to "Idea" so it is ready to fill in.
+- Seed each slot with a specific starter idea, not a placeholder, based on the
+  audience and goal. Vary the content types across the quarter.
+
+After the table:
+- List 3 evergreen ideas that can fill any gap.
+- Note one repurposing loop (for example, each blog post becomes 2 social posts
+  and 1 newsletter section).
+
+Keep it realistic for the stated cadence. Do not overload a small team.
+```
+
+## How to use
+
+1. Save the block above as `.claude/commands/calendar.md`.
+2. Run `/calendar` and describe your channels, cadence, audience, and quarterly goal.
+3. Copy the table into your planning tool and fill in owners and dates.
+4. Use the Blog Post Outline command to expand any slot into a full brief when it is up next.
+
+---
+
+Part of the [Claude Code Marketing Library](https://cc4.marketing/library/). See the live page for the latest version. Browse more [Project & Ops](https://cc4.marketing/library/project-ops/) entries.
