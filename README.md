@@ -10,7 +10,7 @@ Read the rendered versions at **[cc4.marketing/library](https://cc4.marketing/li
 
 ## Directory
 
-25 entries across 9 categories.
+26 entries across 9 categories.
 
 | Category | Name | Type | Access | What it does |
 | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ Read the rendered versions at **[cc4.marketing/library](https://cc4.marketing/li
 | Content & Copy | [Blog to Social Repurposer](content/repurpose-blog-to-social.md) | Slash Command | Free | Turn one blog post into a LinkedIn post, an X thread, and a carousel. |
 | Content & Copy | [Brand Voice Memory Block](content/brand-voice-memory.md) | Prompt | Free | A CLAUDE.md block that keeps every draft on brand across a project. |
 | Content & Copy | [Notes Humanizer](content/notes-humanizer.md) | Skill | Free | Strip the AI tells out of a draft so it reads like a person wrote it. |
+| Content & Copy | [B2B Enterprise Naming](content/b2b-enterprise-naming.md) | Skill | Free | Turn a naming brief into a scored shortlist that reads like enterprise software, not a myth. |
 | Ads & Paid | [Ad Copy Variant Generator](paid-ads/ad-copy-variants.md) | Slash Command | Free | Generate 10 headline and primary text variants, each with an angle. |
 | Ads & Paid | [Negative Keyword Finder](paid-ads/negative-keyword-finder.md) | Prompt | Free | Mine a Google Ads search terms export for negative keywords, grouped by reason. |
 | Analytics & Data | [GA4 Question Answerer](analytics/ga4-question-answerer.md) | Prompt | Free | Turn a plain English analytics question into GA4 exploration steps. |
