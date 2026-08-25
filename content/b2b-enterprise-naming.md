@@ -13,16 +13,16 @@ Most naming approaches default to story and metaphor. That's the wrong register 
 ```markdown
 ---
 name: b2b-enterprise-naming
-description: Build names for B2B and enterprise products, internal platforms, corporate events, or campaigns using grounded business vocabulary instead of mythic or story-driven names. Use when the object is an enterprise product, PMO/IT platform, corporate event, or B2B campaign; when the user explicitly rejects mythic/story naming ("not some theme for star", "not anduril like", "too generic", "keep it business"); or when the audience is a business function (PMO, IT, sales, ops) rather than consumer. Produces a "Core Name: Subtitle" shortlist scored on a 5-axis B2B fit matrix, dials concreteness to audience seniority, and flags domain-word scope tradeoffs (e.g. keeping vs swapping a department name like PMO). Route to anduril-naming instead when the user wants mythic, story-driven, or symbolically deep names.
+description: Build names for B2B and enterprise products, internal platforms, corporate events, or campaigns using grounded business vocabulary instead of mythic or story-driven names. Use when the object is an enterprise product, PMO/IT platform, corporate event, or B2B campaign; when the user explicitly rejects mythic/story naming ("not some theme for star", "too generic", "keep it business"); or when the audience is a business function (PMO, IT, sales, ops) rather than consumer. Produces a "Core Name: Subtitle" shortlist scored on a 5-axis B2B fit matrix, dials concreteness to audience seniority, and flags domain-word scope tradeoffs (e.g. keeping vs swapping a department name like PMO). Route to a story-driven naming skill instead when the user wants mythic, symbolically deep names.
 ---
 
 # B2B Enterprise Naming
 
-Turn a business naming brief (event, product, platform, campaign) into a shortlist grounded in real enterprise vocabulary, not myth or metaphor. Sibling to `anduril-naming`: that skill owns story-driven names with narrative depth, this skill owns names that read as business software or corporate event language on first pass.
+Turn a business naming brief (event, product, platform, campaign) into a shortlist grounded in real enterprise vocabulary, not myth or metaphor. Use it alongside a story-driven naming skill if you have one installed: that kind owns names with narrative depth, this one owns names that read as business software or corporate event language on first pass.
 
-## When to use vs anduril-naming
+## When to use vs a story-driven approach
 
-Use this skill when the object is B2B/enterprise-facing and the user wants it to sound like it belongs in that world (or explicitly says no to myth/story framing). Use `anduril-naming` when the user wants symbolic depth, a retellable story, or explicitly references Anduril-style naming. If unsure, ask which register fits, don't guess.
+Use this skill when the object is B2B/enterprise-facing and the user wants it to sound like it belongs in that world (or explicitly says no to myth/story framing). Reach for story-driven naming instead when the user wants symbolic depth, a retellable story, or references Anduril-style naming by name. If unsure, ask which register fits, don't guess.
 
 ## Workflow
 
@@ -38,7 +38,7 @@ Don't reach for Lane B by default, only when Lane A reads too flat for the brief
 Core Name: 1 to 3 plain nouns, no metaphor required. Subtitle: state the brief's existing pillars or value prop directly (e.g. "Align, Predict, Optimize" or "Full Visibility, Total Control"). This is the deliverable unit, always generate both halves together.
 
 ### Step 4: Two dials for iteration
-Concreteness axis: mythic/story (anduril-naming territory), then borrowed industry term (Lane B), then plain descriptive (Lane A). Seniority axis: executive-abstract to operational-concrete.
+Concreteness axis: mythic/story, then borrowed industry term (Lane B), then plain descriptive (Lane A). Seniority axis: executive-abstract to operational-concrete.
 When the user reacts "too generic", move one step toward Lane B. "Too strange / too distant / needs explaining", move one step toward Lane A. "Audience is more senior/junior", slide the seniority axis and regenerate, don't restart from scratch, reuse what already scored well.
 
 ### Step 5: Domain-word scope check
